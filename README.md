@@ -14,7 +14,8 @@
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Tenlun's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Tenlun&show_icons=true&count_private=true&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tenlun&theme=default)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Tenlun)
 
 ---
 
@@ -23,6 +24,7 @@
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/NPM-CC3838?style=for-the-badge&logo=npm)
 
 ---
 
